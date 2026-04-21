@@ -1,3 +1,7 @@
+> **Status: Work in progress**
+> This project is currently incomplete and not functional.
+> Please do not use it yet.
+
 # ArchVinci
 
 A guided installer for running DaVinci Resolve Studio in a Rocky Linux Distrobox on Arch Linux.
