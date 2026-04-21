@@ -1,8 +1,9 @@
-> **Status: Work in progress**
-> This project is currently incomplete and not functional.
-> Please do not use it yet.
-
 # ArchVinci
+
+## 🚧 WARNING — DO NOT USE THIS PROJECT YET 🚧
+
+**This repository is still under active development.**  
+**It is currently not functional and should not be used.**
 
 A guided installer for running DaVinci Resolve Studio in a Rocky Linux Distrobox on Arch Linux.
 
