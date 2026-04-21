@@ -26,11 +26,3 @@ Early work in progress.
 - AMD GPU
 - DaVinci Resolve Studio Linux ZIP downloaded manually from the Blackmagic website
 
-~~ ## Quick start~~ 
-
-~~ 1. Clone this repository~~ 
-~~ 2. Copy the DaVinci Resolve Studio Linux ZIP into the `input/` directory~~ 
-~~ 3. Run:~~ 
-
-```bash
-~~ ./install.sh~~ 
