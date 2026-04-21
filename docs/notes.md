@@ -1,0 +1,1 @@
+This project is currently focused on DaVinci Resolve Studio on AMD systems.
